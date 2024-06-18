@@ -1,8 +1,6 @@
-# Hi there! 👋 
+# Hi there! 👋 I'm Ahmed Hesham Saadawy.
 
-## I'm Ahmed Hesham Saadawy.
-
-## About me
+# About me
 👨‍💻 I completed my undergraduate BSc. degree at Zewail City for Science and Technology (https://www.zewailcity.edu.eg) where I majored in Computational Biology and Genomics and minored in Information Engineering.
 🚀 Enthusiastic about multi-omics and AI applications in biology.
 
