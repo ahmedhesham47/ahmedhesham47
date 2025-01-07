@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Ahmed Hesham Saadawy.
 
 # About me
+- 🚀 A current Molecular and Computational Biology PhD Student at the University of Southern California.
 - 👨‍💻 I completed my undergraduate BSc. degree at [Zewail City for Science and Technology](https://www.zewailcity.edu.eg) where I majored in Computational Biology and Genomics and minored in Information Engineering.
 - 🚀 Enthusiastic about multi-omics and AI applications in biology.
 
