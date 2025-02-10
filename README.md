@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ahmed Hesham Saadawy.
+# Hi there! 👋 I'm Ahmed Saadawy.
 
 # About me
 - 🚀 A current Molecular and Computational Biology PhD Student at the University of Southern California.
