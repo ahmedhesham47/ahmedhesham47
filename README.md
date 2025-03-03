@@ -3,7 +3,7 @@
 # About me
 - 🚀 A current Molecular and Computational Biology PhD Student at the University of Southern California.
 - 👨‍💻 I completed my undergraduate BSc. degree at [Zewail City for Science and Technology](https://www.zewailcity.edu.eg) where I majored in Computational Biology and Genomics and minored in Information Engineering.
-- 🚀 Enthusiastic about multi-omics and AI applications in biology.
+- 🚀 Enthusiastic about systems biology and AI applications in pushing precision medicine forward.
 
 Welcome to my GitHub profile!
 
