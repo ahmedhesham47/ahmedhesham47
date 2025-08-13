@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Tech & Tools
+## 🛠️ Tech Tools
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -46,6 +46,9 @@
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat&logo=tmux&logoColor=white)
 ![SLURM](https://img.shields.io/badge/SLURM-2D2D2D?style=flat&logo=linux&logoColor=white)
 ![HPC](https://img.shields.io/badge/High%20Performance%20Computing-FF6600?style=flat&logo=linux&logoColor=white)
+![PyOD](https://img.shields.io/badge/PyOD-FF6C37?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ---
 
@@ -58,8 +61,8 @@
 ![UniProt](https://img.shields.io/badge/UniProt-800080?style=flat&logo=dna&logoColor=white)
 ![PubChem](https://img.shields.io/badge/PubChem-228B22?style=flat&logo=dna&logoColor=white)
 ![Human Protein Atlas](https://img.shields.io/badge/Human%20Protein%20Atlas-2F4F4F?style=flat&logo=dna&logoColor=white)
-![GTEx](https://img.shields.io/badge/GTEx-9400D3?style=flat&logo=dna&logoColor=white)
-![TCGA](https://img.shields.io/badge/TCGA-00008B?style=flat&logo=dna&logoColor=white)
+![Genotype Tissue Expression](https://img.shields.io/badge/Geneotype%20Tissue%20Expression-9400D3?style=flat&logo=dna&logoColor=white)
+![The Cancer Genome Atlas](https://img.shields.io/badge/The%20Cancer%20Genome%20Atlas-00008B?style=flat&logo=dna&logoColor=white)
 
 ---
 
