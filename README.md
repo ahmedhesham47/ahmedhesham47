@@ -92,8 +92,8 @@
 [![Bayesian Networks](https://img.shields.io/badge/🧠_Bayesian_Networks-00FFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Bayesian-Network-for-Predicting-ICB-Response)
 [![Genetic Algorithms](https://img.shields.io/badge/🧬_Genetic_Algorithms-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Genetic-Algorithms-for-Machine-Learning-Feature-Selection)
 [![Breast Cancer Classification](https://img.shields.io/badge/🩺_Breast_Cancer_Classification-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Deep-Learning-Classification-of-Breast-Cancer-Subtypes-Based-on-Histopathological-Image-Data)
-[![Enhancer Location Study](https://img.shields.io/badge/🧪_Enhancer Location_Impact_on_Gene_Expression-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/in-silico-investigation-of-different-enhancers-effect-on-gene-expression)
-[![Protein-protein Interactions](https://img.shields.io/badge/🧩_Protein-protein Interactions-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/PPIer-an-undirected-weighted-adjacency-matrix-C-implementation-of-a-graph-of-PPIs)
+[![Enhancer Location Study](https://img.shields.io/badge/🧪%20Enhancer%20Location%20Study-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/in-silico-investigation-of-different-enhancers-effect-on-gene-expression)
+[![Protein-Protein Interactions](https://img.shields.io/badge/🧩%20Protein-Protein%20Interactions-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/PPIer-an-undirected-weighted-adjacency-matrix-C-implementation-of-a-graph-of-PPIs)
 
 ---
 
