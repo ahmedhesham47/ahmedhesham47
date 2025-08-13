@@ -89,12 +89,11 @@
 ---
 
 ## 📌 Favorite Projects
-[![Predicting ICB Response](https://img.shields.io/badge/🔬_Predicting_ICB_Response-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Predicting-Immune-Checkpoint-Blockade-Response-A-Multi-Omics-Based-Machine-Learning-Framework)
-[![Bayesian Network](https://img.shields.io/badge/🧠_Bayesian_Network_ICB-00FFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Bayesian-Network-for-Predicting-ICB-Response)
+[![Bayesian Networks](https://img.shields.io/badge/🧠_Bayesian_Network_ICB-00FFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Bayesian-Network-for-Predicting-ICB-Response)
 [![Genetic Algorithms](https://img.shields.io/badge/🧬_Genetic_Algorithms-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Genetic-Algorithms-for-Machine-Learning-Feature-Selection)
-[![DL Breast Cancer Classification](https://img.shields.io/badge/🩺_DL_Breast_Cancer_Classification-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Deep-Learning-Classification-of-Breast-Cancer-Subtypes-Based-on-Histopathological-Image-Data)
-[![Gene Enhancers Study](https://img.shields.io/badge/🧪_Enhancer_Impact_on_Gene_Expression-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/in-silico-investigation-of-different-enhancers-effect-on-gene-expression)
-[![PPIer](https://img.shields.io/badge/🧩_PPIer_Graph_Implementation-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/PPIer-an-undirected-weighted-adjacency-matrix-C-implementation-of-a-graph-of-PPIs)
+[![Breast Cancer Classification](https://img.shields.io/badge/🩺_DL_Breast_Cancer_Classification-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Deep-Learning-Classification-of-Breast-Cancer-Subtypes-Based-on-Histopathological-Image-Data)
+[![Enhancer Location Study](https://img.shields.io/badge/🧪_Enhancer_Impact_on_Gene_Expression-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/in-silico-investigation-of-different-enhancers-effect-on-gene-expression)
+[![Protein-protein Interactions](https://img.shields.io/badge/🧩_PPIer_Graph_Implementation-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/PPIer-an-undirected-weighted-adjacency-matrix-C-implementation-of-a-graph-of-PPIs)
 
 ---
 
@@ -111,7 +110,7 @@
 
 ## 🌍 Outside of Work
 - ♟️ Chess enthusiast — [Lichess: FuzzyBuzz](https://lichess.org/@/FuzzyBuzz)
-- 🎵 Avid music listener. Here are the songs that I enjoy listening to the most: [—](https://open.spotify.com/playlist/7kH2t9IjIkfcOh9WxMVk9G?si=e51112dac05b4073)
+- 🎵 Avid music listener. Here are the songs that I enjoy listening to the most: [Spotify](https://open.spotify.com/playlist/7kH2t9IjIkfcOh9WxMVk9G?si=e51112dac05b4073)
 - 🎥 Enjoy watching documentaries, science videos, and entertainment shows on YouTube
 - 🍳 Cooking and experimenting with new recipes
 
