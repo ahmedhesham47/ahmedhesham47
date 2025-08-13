@@ -84,7 +84,7 @@
 
 ---
 
-## 📌 Pinned Repositories
+## 📌 Favorite Projects
 [![Predicting ICB Response](https://img.shields.io/badge/🔬_Predicting_ICB_Response-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Predicting-Immune-Checkpoint-Blockade-Response-A-Multi-Omics-Based-Machine-Learning-Framework)
 [![Bayesian Network](https://img.shields.io/badge/🧠_Bayesian_Network_ICB-00FFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Bayesian-Network-for-Predicting-ICB-Response)
 [![Genetic Algorithms](https://img.shields.io/badge/🧬_Genetic_Algorithms-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Genetic-Algorithms-for-Machine-Learning-Feature-Selection)
@@ -101,7 +101,6 @@
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhesham47&layout=compact&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmedhesham47&theme=radical)](https://git.io/streak-stats)  
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ahmedhesham47&theme=radical)
 
 ---
