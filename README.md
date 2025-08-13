@@ -5,10 +5,10 @@
 <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
 
 ## 🧬 About Me
-- 🎓 **PhD Student** in *Molecular & Computational Biology* @ **University of Southern California**.  
-- 🔬 **Graduate Research Assistant** at [CSI-Cancer](https://dornsife.usc.edu/kuhn/) — bridging **liquid biopsy** with **computational biology**.  
-- 🎓 **BSc** in *Computational Biology & Genomics* (Minor: Information Engineering) from [Zewail City for Science and Technology](https://www.zewailcity.edu.eg).  
-- 🚀 Current research: Identifying rare cell populations in multiple myeloma using the [HDSCA platform](https://dornsife.usc.edu/kuhn/liquid-biopsy/liquid-biopsy-2/) & developing multi-modal predictive models for various clinical outcomes.  
+- 🎓 **PhD Student** in *Molecular & Computational Biology* @ **University of Southern California**
+- 🔬 **Graduate Research Assistant** at [CSI-Cancer](https://dornsife.usc.edu/kuhn/) — bridging **liquid biopsy** with **computational biology**
+- 🎓 **BSc** in *Computational Biology & Genomics* (Minor: Information Engineering) from [Zewail City for Science and Technology](https://www.zewailcity.edu.eg)
+- 🚀 Current research: Identifying rare cell populations in multiple myeloma using the [HDSCA platform](https://dornsife.usc.edu/kuhn/liquid-biopsy/liquid-biopsy-2/) & developing multi-modal predictive models for various clinical outcomes
 
 ---
 
@@ -17,6 +17,7 @@
 - 🧠 **AI for Biology** — interpretable statistical and ML/DL methods for biological data
 - 🧪 **Systems Biology** — network biology, cellular self-organization, virtual cell modelling, genetic perturbations
 - 🩺 **Cancer Biology & Immunology** — multiple myeloma heterogeneity, immunotherapy, tumor immune microenvironments
+
 ---
 
 ## 💻 Languages
@@ -84,13 +85,12 @@
 ---
 
 ## 📌 Pinned Repositories
-[![Repo 1](https://img.shields.io/badge/🧬_Predicting_ICB_Response_(Multi-Omics_ML_Framework)-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Predicting-Immune-Checkpoint-Blockade-Response-A-Multi-Omics-Based-Machine-Learning-Framework)
-[![Repo 2](https://img.shields.io/badge/🧠_Bayesian_Network_for_ICB_Response-00CED1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Bayesian-Network-for-Predicting-ICB-Response)
-[![Repo 3](https://img.shields.io/badge/⚙️_Genetic_Algorithms_for_Feature_Selection-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Genetic-Algorithms-for-Machine-Learning-Feature-Selection)
-[![Repo 4](https://img.shields.io/badge/🖼️_DL_Classification_of_Breast_Cancer_Subtypes-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Deep-Learning-Classification-of-Breast-Cancer-Subtypes-Based-on-Histopathological-Image-Data)
-[![Repo 5](https://img.shields.io/badge/🧪_In_Silico_Investigation_of_Enhancers-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/in-silico-investigation-of-different-enhancers-effect-on-gene-expression)
-[![Repo 6](https://img.shields.io/badge/🔗_PPIer_(C++_Graph_of_PPIs)-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/PPIer-an-undirected-weighted-adjacency-matrix-C-implementation-of-a-graph-of-PPIs)
-
+[![Predicting ICB Response](https://img.shields.io/badge/🔬_Predicting_ICB_Response-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Predicting-Immune-Checkpoint-Blockade-Response-A-Multi-Omics-Based-Machine-Learning-Framework)
+[![Bayesian Network](https://img.shields.io/badge/🧠_Bayesian_Network_ICB-00FFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Bayesian-Network-for-Predicting-ICB-Response)
+[![Genetic Algorithms](https://img.shields.io/badge/🧬_Genetic_Algorithms-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Genetic-Algorithms-for-Machine-Learning-Feature-Selection)
+[![DL Breast Cancer Classification](https://img.shields.io/badge/🩺_DL_Breast_Cancer_Classification-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Deep-Learning-Classification-of-Breast-Cancer-Subtypes-Based-on-Histopathological-Image-Data)
+[![Gene Enhancers Study](https://img.shields.io/badge/🧪_Enhancer_Impact_on_Gene_Expression-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/in-silico-investigation-of-different-enhancers-effect-on-gene-expression)
+[![PPIer](https://img.shields.io/badge/🧩_PPIer_Graph_Implementation-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/PPIer-an-undirected-weighted-adjacency-matrix-C-implementation-of-a-graph-of-PPIs)
 
 ---
 
@@ -100,17 +100,16 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhesham47&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmedhesham47&theme=radical)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhesham47&layout=compact&theme=radical)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmedhesham47&theme=radical)](https://git.io/streak-stats)  
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ahmedhesham47&theme=radical)
 
 ---
 
 ## 🌍 Outside of Work
-- ♟️ Chess enthusiast (let’s play!)  
-- 📚 Avid reader — from molecular biology papers to sci-fi novels  
-- ☕ Coffee-powered coding sessions  
-- 🛠 Tinkering with data science side projects  
+- ♟️ Chess enthusiast — [Lichess: FuzzyBuzz](https://lichess.org/@/FuzzyBuzz)
+- 🎥 Enjoy watching documentaries, science videos, and entertainment shows on YouTube
+- 🍳 Cooking and experimenting with new recipes
 
 ---
 
@@ -121,4 +120,4 @@
 
 ---
 
-💡 *“The best way to predict the future is to create it.”*  
+💡 *“The best way to predict the future is to create it.”*
