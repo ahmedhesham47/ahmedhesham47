@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&width=800&lines=PhD+Student+%7C+Molecular+%26+Computational+Biology;AI+%2B+Systems+Biology+Enthusiast;Liquid+Biopsy+%E2%80%94+cfDNA%2C+ctDNA%2C+Fragmentomics;Chess+%26+Coffee+Fueled+Coder)](https://git.io/typing-svg)
 
-<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnMxMzUxMnV1bXluejV0bW1oN2txeDExcGRpczJtYXlqenl2anByaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DrJm6F9poo4aA/giphy.gif" width="200">
+<img align="middle" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWU2anA5OHNnOGM2MGoxdzMycHZyb2Y3dXl6ajkycmc3a2xzYXZ4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
+<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V3azdiYTA2bW45Zm5tenh2cnc2M2l6cnM4cG83ZjFmOGljdXFpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2wL1RIJefVgCl3hKVc/giphy.gif" width="200">
 
 ## 🧬 About Me
 - 🎓 **PhD Student** in *Molecular & Computational Biology* @ **University of Southern California**
@@ -99,7 +101,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Achievements
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhesham47&layout=compact&theme=radical)  
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ahmedhesham47&theme=radical)
 
