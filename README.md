@@ -93,7 +93,7 @@
 [![Genetic Algorithms](https://img.shields.io/badge/🧬_Genetic_Algorithms-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Genetic-Algorithms-for-Machine-Learning-Feature-Selection)
 [![Breast Cancer Classification](https://img.shields.io/badge/🩺_Breast_Cancer_Classification-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/Deep-Learning-Classification-of-Breast-Cancer-Subtypes-Based-on-Histopathological-Image-Data)
 [![Enhancer Location Study](https://img.shields.io/badge/🧪%20Enhancer%20Location%20Study-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/in-silico-investigation-of-different-enhancers-effect-on-gene-expression)
-[![Protein-Protein Interactions](https://img.shields.io/badge/🧩Protein-protein%20Interactions-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/PPIer-an-undirected-weighted-adjacency-matrix-C-implementation-of-a-graph-of-PPIs)
+[![Protein Interaction Networks](https://img.shields.io/badge/🧩%20Protein%20Interaction%20Networks-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedhesham47/PPIer-an-undirected-weighted-adjacency-matrix-C-implementation-of-a-graph-of-PPIs)
 
 ---
 
