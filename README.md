@@ -62,7 +62,7 @@
 ![PubChem](https://img.shields.io/badge/PubChem-228B22?style=flat&logo=dna&logoColor=white)
 ![Human Protein Atlas](https://img.shields.io/badge/Human%20Protein%20Atlas-2F4F4F?style=flat&logo=dna&logoColor=white)
 ![Genotype Tissue Expression](https://img.shields.io/badge/Geneotype%20Tissue%20Expression-9400D3?style=flat&logo=dna&logoColor=white)
-![The Cancer Genome Atlas](https://img.shields.io/badge/The%20Cancer%20Genome%20Atlas-00008B?style=flat&logo=dna&logoColor=white)
+![The Cancer Genome Atlas](https://img.shields.io/badge/The%20Cancer%20Genome%20Atlas-00007B?style=flat&logo=dna&logoColor=white)
 
 ---
 
