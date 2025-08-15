@@ -24,6 +24,16 @@
 
 ---
 
+## 📚 Publications & Projects
+
+Here’s a selection of research publications and corresponding code repositories:
+
+| 📖 Publication | Journal | 🧪 Repository |
+|----------------|---------------|---------------|
+| _[ AI In Healthcare: Using Bayesian Networks To Predict Response To Immune Checkpoint Blockades](https://ieeexplore.ieee.org/abstract/document/10510531/)_ | IEEEXplore | [Bayesian Networks for ICB GitHub Repo](https://github.com/ahmedhesham47/Bayesian-Network-for-Predicting-ICB-Response) |
+
+---
+
 ## 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
