@@ -28,7 +28,7 @@
 
 Here’s a selection of research publications and corresponding code repositories:
 
-| 📖 Publication | Journal | 🧪 Repository |
+| 📖 Publication | 📖 Journal | 🧪 Repository |
 |----------------|---------------|---------------|
 | _[ AI In Healthcare: Using Bayesian Networks To Predict Response To Immune Checkpoint Blockades](https://ieeexplore.ieee.org/abstract/document/10510531/)_ | IEEEXplore | [Bayesian Networks for ICB GitHub Repo](https://github.com/ahmedhesham47/Bayesian-Network-for-Predicting-ICB-Response) |
 
