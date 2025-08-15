@@ -55,7 +55,7 @@ Here’s a selection of research publications and corresponding code repositorie
 ![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=flat&logo=python&logoColor=white)
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat&logo=tmux&logoColor=white)
 ![SLURM](https://img.shields.io/badge/SLURM-2D2D2D?style=flat&logo=linux&logoColor=white)
-![HPC](https://img.shields.io/badge/High%20Performance%20Computing-FF6600?style=flat&logo=linux&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC-2D2D2D?style=flat&logo=linux&logoColor=white)
 ![PyOD](https://img.shields.io/badge/PyOD-FF6C37?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
