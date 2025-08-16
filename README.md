@@ -126,6 +126,7 @@ Here’s a selection of research publications and corresponding code repositorie
       
 ---
 
+
 ## 🌍 Outside of Work
 - ♟️ Chess enthusiast — [Lichess: FuzzyBuzz](https://lichess.org/@/FuzzyBuzz)
 - 🎵 Avid music listener. Here are the songs that I enjoy listening to the most: [Spotify](https://open.spotify.com/playlist/7kH2t9IjIkfcOh9WxMVk9G?si=e51112dac05b4073)
