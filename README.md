@@ -40,23 +40,19 @@ Here’s a selection of research publications and corresponding code repositorie
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-ff7f0e?style=flat&logo=mathworks&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ---
 
 ## 🛠️ Tech Tools
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-004B87?style=flat&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=flat&logo=python&logoColor=white)
 ![Tmux](https://img.shields.io/badge/Tmux-1BB91F?style=flat&logo=tmux&logoColor=white)
 ![SLURM](https://img.shields.io/badge/SLURM-2D2D2D?style=flat&logo=linux&logoColor=white)
 ![HPC](https://img.shields.io/badge/HPC-2D2D2D?style=flat&logo=linux&logoColor=white)
-![PyOD](https://img.shields.io/badge/PyOD-FF6C37?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
