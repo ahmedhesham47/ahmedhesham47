@@ -108,6 +108,24 @@ Here’s a selection of research publications and corresponding code repositorie
 
 ---
 
+<p align="center">
+  <a href="https://github.com/ahmedhesham47">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedhesham47&theme=transparent" />
+  </a>
+  <a href="https://github.com/ahmedhesham47">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhesham47&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/ahmedhesham47">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedhesham47&theme=transparent" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ahmedhesham474">
+    <img src="https://komarev.com/
+      
+---
+
 ## 🌍 Outside of Work
 - ♟️ Chess enthusiast — [Lichess: FuzzyBuzz](https://lichess.org/@/FuzzyBuzz)
 - 🎵 Avid music listener. Here are the songs that I enjoy listening to the most: [Spotify](https://open.spotify.com/playlist/7kH2t9IjIkfcOh9WxMVk9G?si=e51112dac05b4073)
