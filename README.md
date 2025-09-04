@@ -31,6 +31,7 @@
 | 📖 Publication | 📖 Journal | 🧪 Repository |
 |----------------|------------|---------------|
 | _[AI in Healthcare: Using Bayesian Networks to Predict Response to Immune Checkpoint Blockades](https://ieeexplore.ieee.org/abstract/document/10510531/)_ | IEEE Xplore | [Bayesian Networks for ICB](https://github.com/ahmedhesham47/Bayesian-Network-for-Predicting-ICB-Response) |
+_[The landscape of cyclin-dependent kinase 4/6 inhibitors in solid malignancies: Emphasis on immunotherapy combinatorial strategies](https://link.springer.com/article/10.1007/s12032-025-02996-8)_ | Medical Oncology | [CDK4_6-Inhibitors-In-silico-Analysis](https://github.com/ahmedhesham47/CDK4_6-Inhibitors-In-silico-Analysis)
 
 ---
 
