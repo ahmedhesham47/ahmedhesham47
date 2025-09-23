@@ -122,8 +122,6 @@ _[The landscape of cyclin-dependent kinase 4/6 inhibitors in solid malignancies:
 - ♟️ Chess enthusiast — [Lichess: FuzzyBuzz](https://lichess.org/@/FuzzyBuzz)
 - 🎵 Music fan — curated [Spotify playlist](https://open.spotify.com/playlist/7kH2t9IjIkfcOh9WxMVk9G?si=e51112dac05b4073)
 - 🎥 Documentaries, science videos, and entertainment on YouTube
-- 🍳 Cooking & experimenting with new recipes
-
 ---
 
 ## 📫 Reach Me
