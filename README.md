@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ahmed Saadawy
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&width=800&lines=PhD+Student+%7C+Molecular+%26+Computational+Biology;AI+%2B+Systems+Biology+Enthusiast;Liquid+Biopsy+%E2%80%94+cfDNA%2C+ctDNA%2C+Fragmentomics;Coffee+Fueled+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&width=800&lines=PhD+Student+%7C+Molecular+%26+Computational+Biology;Liquid+Biopsy;Coffee-+Fueled+Coder)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://media3.giphy.com/media/DrJm6F9poo4aA/giphy.gif" width="200" />
