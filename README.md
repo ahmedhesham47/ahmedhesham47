@@ -10,7 +10,7 @@
 ---
 
 ## 🧬 About Me
-- 🎓 **PhD Student** in *Molecular & Computational Biology* @ **University of Southern California**
+- 🎓 **PhD Student** in *Molecular & Cellular Biosciences* @ **University of Southern California**
 - 🔬 **Graduate Research Assistant** at [CSI-Cancer](https://dornsife.usc.edu/kuhn/) — bridging **liquid biopsy** with **computational biology**
 - 🎓 **BSc** in *Computational Biology & Genomics* (Minor: Information Engineering) from [Zewail City for Science and Technology](https://www.zewailcity.edu.eg)
 - 🚀 Current research: Identifying rare cell populations in multiple myeloma using the [HDSCA platform](https://dornsife.usc.edu/kuhn/liquid-biopsy/liquid-biopsy-2/) & developing multi-modal predictive models for clinical outcomes
